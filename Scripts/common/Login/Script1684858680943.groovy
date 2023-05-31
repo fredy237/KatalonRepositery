@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://ztrain-web.vercel.app/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/Login_Page/Page_/input_Connexion_email_login'), Username)
+WebUI.setText(findTestObject('Object Repository/Login_Page/Page_/input_Connexion_email_login'), 'fredytcheuguen@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login_Page/Page_/input_Connexion_password_login'), Password)
+WebUI.setEncryptedText(findTestObject('Object Repository/Login_Page/Page_/input_Connexion_password_login'), 'TdDIXt598/VqNr6xxoTaUQ==')
 
 WebUI.verifyElementPresent(findTestObject('Login_Page/Page_/button_Connexion'), 0)
 
