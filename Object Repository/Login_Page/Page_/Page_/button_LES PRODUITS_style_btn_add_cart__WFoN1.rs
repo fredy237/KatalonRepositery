@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_LES PRODUITS_style_btn_add_cart__WFoN1</name>
+   <tag></tag>
+   <elementGuidId>41714dbb-8ec5-4a73-a445-d09d506f3ed9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.style_btn_add_cart__WFoN1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='style_popular_product_wrapper__z6J0h']/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a907c3de-2a36-409a-bf65-646b873805ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style_btn_add_cart__WFoN1</value>
+      <webElementGuid>11baa97d-b4f1-4101-9238-88025ccbaf2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style_popular_product_wrapper__z6J0h&quot;)/div[@class=&quot;style_card__gNEqX&quot;]/div[@class=&quot;style_card_footer__q1lbJ&quot;]/button[@class=&quot;style_btn_add_cart__WFoN1&quot;]</value>
+      <webElementGuid>adb7bf15-c069-4953-bb48-7ce2546696a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='style_popular_product_wrapper__z6J0h']/div/div[2]/button</value>
+      <webElementGuid>fbea4717-7817-431b-b47b-1256d4471639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LES PRODUITS'])[1]/following::button[1]</value>
+      <webElementGuid>b742b0a6-0df4-4afd-af76-6a5b65101c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flitrer par prix'])[1]/following::button[1]</value>
+      <webElementGuid>ae1fdb07-a3fb-43c1-a29a-a8f9f54458d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Machine à café rouge de la marque nespresso'])[1]/preceding::button[1]</value>
+      <webElementGuid>e5003e1e-2024-4814-868c-a1fc1a7daf84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-shirt en coton biologique'])[1]/preceding::button[2]</value>
+      <webElementGuid>de6e4b5f-7054-43c4-b487-9e2f63482a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[2]/button</value>
+      <webElementGuid>7c67924f-0647-4a13-8a70-0b875ea484c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

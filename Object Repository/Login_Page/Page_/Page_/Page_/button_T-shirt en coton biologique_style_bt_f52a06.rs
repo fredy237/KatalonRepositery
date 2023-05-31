@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_T-shirt en coton biologique_style_bt_f52a06</name>
+   <tag></tag>
+   <elementGuidId>d4ea1da5-956b-42be-baf6-08fb803bf863</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.style_btn_add_cart__WFoN1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='style_popular_product_wrapper__z6J0h']/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c0e9cb4-3c86-4858-aa4a-d11566d9a824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style_btn_add_cart__WFoN1</value>
+      <webElementGuid>d6bac9e9-bdc6-4ee1-b166-ba4d7bc3abe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style_popular_product_wrapper__z6J0h&quot;)/div[@class=&quot;style_card__gNEqX&quot;]/div[@class=&quot;style_card_footer__q1lbJ&quot;]/button[@class=&quot;style_btn_add_cart__WFoN1&quot;]</value>
+      <webElementGuid>b955240e-a7c6-420d-b7f9-5137fb417b34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='style_popular_product_wrapper__z6J0h']/div/div[2]/button</value>
+      <webElementGuid>a8f2cd90-8312-4d23-8dd8-458f19be4bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-shirt en coton biologique'])[1]/following::button[1]</value>
+      <webElementGuid>7083c48d-d151-4ca2-ac0b-e47de8389603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LES PRODUITS'])[1]/following::button[1]</value>
+      <webElementGuid>d99dd9cf-2405-4cb5-ab84-fc84ddfaab07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z-Train'])[2]/preceding::button[1]</value>
+      <webElementGuid>7871c831-6896-4822-8157-4d4efb13f3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our society'])[1]/preceding::button[1]</value>
+      <webElementGuid>c0c5d268-780f-497a-9f6b-7572b946aff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div[2]/button</value>
+      <webElementGuid>0eb0b975-5ab7-4a11-a08d-10921cc1a503</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

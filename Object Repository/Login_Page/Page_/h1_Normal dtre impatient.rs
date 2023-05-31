@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Normal dtre impatient</name>
+   <tag></tag>
+   <elementGuidId>fe3eaf19-ac3b-46a5-b7e7-2dd58f77ad7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.style_content_text_header__smxQ5 > h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='style_header_home__8t_ie']/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>18e33d44-52f8-49a5-a8a1-eaa09ecf36c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Normal d'être impatient.</value>
+      <webElementGuid>7ba99258-e201-4941-88e3-c7e827e1b554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style_header_home__8t_ie&quot;)/div[@class=&quot;style_content_text_header__smxQ5&quot;]/h1[1]</value>
+      <webElementGuid>b3696643-f6a5-4f47-81ea-a421f385fc6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='style_header_home__8t_ie']/div/h1</value>
+      <webElementGuid>66cf55e1-7691-4b90-9429-72c9c649357f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se déconnecter'])[1]/following::h1[1]</value>
+      <webElementGuid>97142a68-7a4f-46b3-bdd8-a2097814dff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mes favoris'])[1]/following::h1[1]</value>
+      <webElementGuid>79d32974-1e67-469b-80e3-ac5ab4d57e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flitrer par prix'])[1]/preceding::h1[1]</value>
+      <webElementGuid>206c2b3c-ed44-492f-b076-dd4cdbda9c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LES PRODUITS'])[1]/preceding::h1[1]</value>
+      <webElementGuid>cd954829-e9ac-4853-8334-8ec5a34453a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/h1</value>
+      <webElementGuid>742a8136-3ff9-4414-ad86-dc5c4e3fe7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = concat(&quot;Normal d&quot; , &quot;'&quot; , &quot;être impatient.&quot;) or . = concat(&quot;Normal d&quot; , &quot;'&quot; , &quot;être impatient.&quot;))]</value>
+      <webElementGuid>18ad626c-1ee2-46b6-8948-1937145a11d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

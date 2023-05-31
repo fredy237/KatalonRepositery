@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_T-shirt en coto</name>
+   <tag></tag>
+   <elementGuidId>5c2d5d5e-8474-47b4-bc0d-b0a9e8dd73ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='style_card_wrapper__hrc1I']/div[2]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>22d1cd52-98a8-42b9-88a5-588df4faca3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style_productName__lrC3N</value>
+      <webElementGuid>ffb646ff-0f34-45ff-9e28-3e70e4fafb1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>T-shirt en coto...</value>
+      <webElementGuid>5989255f-aee6-4d7f-a5f6-8b2d0cc2e383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style_card_wrapper__hrc1I&quot;)/div[@class=&quot;style_card__JLMp6&quot;]/div[@class=&quot;style_card_body__EhpLW&quot;]/p[@class=&quot;style_productName__lrC3N&quot;]</value>
+      <webElementGuid>35f9130c-7409-44b9-a7ff-e29b58b3e2ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='style_card_wrapper__hrc1I']/div[2]/div[2]/p</value>
+      <webElementGuid>74514880-dda2-4920-bb8b-4466659ec50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mon panier'])[1]/following::p[3]</value>
+      <webElementGuid>a1d5be5b-6cc0-4bfb-b554-eb11df461b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::p[2]</value>
+      <webElementGuid>99f251fb-154c-44ad-b188-24545476f54c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vider le panier'])[1]/preceding::p[2]</value>
+      <webElementGuid>a1ab31cd-f0fc-4cef-85e6-c59540bc18e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='T-shirt en coto']/parent::*</value>
+      <webElementGuid>2c47b00b-9d59-4720-a257-ee0cf5f13e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/p</value>
+      <webElementGuid>456f1339-c772-4270-bc17-895eb539ae9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'T-shirt en coto...' or . = 'T-shirt en coto...')]</value>
+      <webElementGuid>8135ac42-60ef-42cc-9e83-783455ee2747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

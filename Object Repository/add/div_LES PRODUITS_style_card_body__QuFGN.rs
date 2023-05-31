@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LES PRODUITS_style_card_body__QuFGN</name>
+   <tag></tag>
+   <elementGuidId>e676398d-6189-4d41-9922-1a7ccd7ca981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.style_card_body__QuFGN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='style_popular_product_wrapper__z6J0h']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b013f50-f28a-471e-8cd3-c45e22afeb96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style_card_body__QuFGN</value>
+      <webElementGuid>c0a8f14f-8b82-480e-85bc-e737665e2de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style_popular_product_wrapper__z6J0h&quot;)/div[@class=&quot;style_card__gNEqX&quot;]/div[@class=&quot;style_card_body__QuFGN&quot;]</value>
+      <webElementGuid>ebc0cf0f-daf2-452b-9c74-d13ce4c631ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='style_popular_product_wrapper__z6J0h']/div/div</value>
+      <webElementGuid>1a656531-55c0-42b9-96c7-e1c7a444fe85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LES PRODUITS'])[1]/following::div[3]</value>
+      <webElementGuid>fe6e72b1-ee01-4c2e-989c-71693fae0487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flitrer par prix'])[1]/following::div[4]</value>
+      <webElementGuid>168fbada-6af6-4fdf-960e-df93b32672df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-shirt en coton biologique'])[1]/preceding::div[1]</value>
+      <webElementGuid>e7aba29d-4675-472b-8e98-210dd3342833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z-Train'])[2]/preceding::div[3]</value>
+      <webElementGuid>60909e8a-5ca1-430f-a679-5a18de8621b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div</value>
+      <webElementGuid>cc7e0da6-2576-417a-9c1c-3c65ecf7d81d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

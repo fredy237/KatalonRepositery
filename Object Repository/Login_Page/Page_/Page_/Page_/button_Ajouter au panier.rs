@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ajouter au panier</name>
+   <tag></tag>
+   <elementGuidId>d6ee0fe4-800f-4de2-a4a9-4f9cc621623a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#style_btn_add_cart__gTXM7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='style_btn_add_cart__gTXM7']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e6c545c-023b-42c0-aaef-0e6be496f350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>style_btn_add_cart__gTXM7</value>
+      <webElementGuid>4c04e13d-0a69-48a6-bbef-4de182a20483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ajouter au panier</value>
+      <webElementGuid>b7776c52-9292-4a03-b9cf-abbe68906ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style_btn_add_cart__gTXM7&quot;)</value>
+      <webElementGuid>1b144c8f-5eae-4ae7-aa79-ddbda682de95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='style_btn_add_cart__gTXM7']</value>
+      <webElementGuid>a9ce5f46-0b99-43d8-941f-de6c64fb1ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='style_detail_wrapper__a7fpS']/button</value>
+      <webElementGuid>acc4fb33-999d-4732-a230-ac9a85ecf8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('J', &quot;'&quot;, 'ai un code promo')])[1]/following::button[1]</value>
+      <webElementGuid>6a4f06d2-57bb-4c78-946e-8e62c903d009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::button[2]</value>
+      <webElementGuid>ac3e3570-39d0-4d2f-af03-c3807dc5b4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valider votre commande'])[1]/preceding::button[2]</value>
+      <webElementGuid>c2660ad6-fbf1-4dd2-b63e-041bca777095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choisir une methode de livraison'])[1]/preceding::button[2]</value>
+      <webElementGuid>bbddf818-2992-4a8a-b76a-fdae005fa634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ajouter au panier']/parent::*</value>
+      <webElementGuid>4c2b37cb-884e-4e03-87b4-58680a26fffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/button</value>
+      <webElementGuid>20e70439-9aea-49e1-8ab2-8e29a44204b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'style_btn_add_cart__gTXM7' and (text() = 'Ajouter au panier' or . = 'Ajouter au panier')]</value>
+      <webElementGuid>2ac225f9-7ded-4a6e-b114-13588ff7649b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

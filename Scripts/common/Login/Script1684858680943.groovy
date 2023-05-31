@@ -9,16 +9,23 @@ import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.testcase.TestCase as TestCase
 import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'ClickNumber.clickNumber'(firstOperand.toString())
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Page_React Calculator/button_minus'))
+WebUI.navigateToUrl('https://ztrain-web.vercel.app/auth/login')
 
-CustomKeywords.'ClickNumber.clickNumber'(secondOperand.toString())
+WebUI.setText(findTestObject('Object Repository/Login_Page/Page_/input_Connexion_email_login'), Username)
 
-WebUI.click(findTestObject('Object Repository/Page_React Calculator/button_equal'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Login_Page/Page_/input_Connexion_password_login'), Password)
+
+WebUI.verifyElementPresent(findTestObject('Login_Page/Page_/button_Connexion'), 0)
+
+WebUI.click(findTestObject('Object Repository/Login_Page/Page_/button_Connexion'))
+
